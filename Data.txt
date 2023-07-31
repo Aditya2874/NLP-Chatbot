@@ -1,0 +1,14 @@
+You: hi
+Bot: Hello! How can I help you?
+You: i want refund
+Bot: On domestic flights you can cancel/ refund till 2 hours prior to flight departure On international flights you can cancel/ refund till 4 hours prior to flight departure
+You: how to cancel ticket
+Bot: Visit the View/Change bookings option on the homepage of our website. 
+You: emergency here
+Bot: For Emergency Call Airport Officers
+You: hfdehcfyf
+Bot: Sounds about right.
+You: rjfv
+Bot: Could you please re-phrase that? 
+You: 
+Bot: ...
